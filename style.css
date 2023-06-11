@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+body {
+  background-image: url("img/willy-wo-pXnMG0FfSwA-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #f2fcfc;
+}
+
+.navbar {
+  font-family: "Lobster", cursive;
+}
